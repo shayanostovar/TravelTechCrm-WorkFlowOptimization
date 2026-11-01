@@ -30,6 +30,14 @@ To address these challenges, a CRM initiative was launched and Microsoft Dynamic
 
 ---
 
+# Business Analysis Scope
+
+This project reflects hands-on ICT business analysis across process discovery, stakeholder needs, CRM workflow design, operational integration, KPI definition, reporting requirements, and continuous improvement.
+
+The work connected business objectives with practical system implementation by translating operational problems into measurable CRM processes, automation opportunities, and management visibility.
+
+---
+
 # Key Business Objectives
 
 The CRM initiative focused on several strategic objectives:
