@@ -49,25 +49,18 @@ The CRM initiative focused on several strategic objectives:
 
 The CRM became the central point connecting multiple business functions:
 
-Marketing Channels
-↓
-Landing Pages
-↓
-Phone Calls
-↓
-Issabel PBX
-↓
-Microsoft Dynamics CRM
-↓
-Lead Qualification
-↓
-Follow-up Activities
-↓
-Customer Conversion
-↓
-Customer Satisfaction Monitoring
-↓
-Management Reporting
+```mermaid
+flowchart TD
+    A[Marketing Channels] --> B[Landing Pages]
+    B --> C[Phone Calls]
+    C --> D[Issabel PBX]
+    D --> E[Microsoft Dynamics CRM]
+    E --> F[Lead Qualification]
+    F --> G[Follow-up Activities]
+    G --> H[Customer Conversion]
+    H --> I[Customer Satisfaction Monitoring]
+    I --> J[Management Reporting]
+```
 
 This structure provided end-to-end visibility into customer acquisition and conversion activities.
 
